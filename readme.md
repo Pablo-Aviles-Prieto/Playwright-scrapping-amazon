@@ -4,7 +4,7 @@
   
 
 Project to play around with web scrapping on the amazon page using playwright.
-
+*This is almost the same snippet I use in the [www.encuentraonline.es](https://www.encuentraonline.es/) project I made along with a friend.*
   
 
 
